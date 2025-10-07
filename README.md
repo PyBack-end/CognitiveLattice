@@ -14,7 +14,11 @@ Rather than being just another LLM wrapper, CognitiveLattice implements a **cogn
 
 Watch the system build a chipotle bowl with only a prompt and no hard coded pathing:
 ![AutonomousWebAgent4](https://github.com/user-attachments/assets/86dc1141-6747-4a53-9e88-f5ec4e226fc2)
+
+
+
 (The gif is choppy to fit within the readme, to see the full playback at normal fidelity you can watch a mp4 at the link bellow)
+
 https://github.com/user-attachments/assets/bbbeab2c-be17-4581-81c7-4bd6a1efcd91
 
 Watch the CognitiveLattice agent in action. This is not a scripted demo. It's a live demonstration of the Cognitive Lattice enabling a series of stateless API calls to be chained into a single, successful, multi-step task. The agent's ability to select the right tool and recall its own actions is entirely dynamic.
