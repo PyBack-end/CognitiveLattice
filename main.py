@@ -20,8 +20,10 @@ async def main():
     tool_manager = ToolManager()
     print(f"🔧 Tool Manager initialized")
 
+
     print("📋 CognitiveLattice Interactive Agent")
     print("=" * 50)
+    print("Initialized")
     
     # Initialize external API client
     try:
